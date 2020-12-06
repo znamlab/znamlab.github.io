@@ -10,9 +10,31 @@ body {
     padding-top: 80px;
 }
 
+.navbar-light .navbar-brand,
+.navbar-light .navbar-text {
+    color: $logo;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: $logo;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+    color: $black;
+}
+
+.bg-light {
+  border-color: $logo;
+}
+
 .panel {
   background: $gray-100;
-  padding-top: 10px;}
+  border-color: lighten($logo, 25%);
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
 
 /* Top navigation bar */
 

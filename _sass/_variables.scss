@@ -27,7 +27,7 @@ $yellow:  #ff851b !default;
 $green:   #28b62c !default;
 $teal:    #20c997 !default;
 $cyan:    #75caeb !default;
-$spikey:  #3b36b2 !default;
+$logo:    #3b36b2 !default;
 
 $primary:       $blue !default;
 $secondary:     $gray-200 !default;
@@ -39,6 +39,8 @@ $light:         $gray-100 !default;
 $dark:          $gray-700 !default;
 
 $yiq-contrasted-threshold: 200 !default;
+
+$link-color:                $logo !default;
 
 // Fonts
 
