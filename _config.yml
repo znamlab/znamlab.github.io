@@ -21,12 +21,12 @@
 title: Znamenskiy Lab | Specification and Function of Neural Circuits
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Specification and Function of Neural Circuits Laboratory at the Francis Crick
+Institute studies how the activity of neurons in the neocortex emerges as the
+product of the structure of their synaptic connections and how gene expression
+program's of cortical neurons guide their wiring.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  znamlab
 
 sass:
