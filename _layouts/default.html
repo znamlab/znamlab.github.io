@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="d-flex flex-column min-vh-100">
 
     {% include header.html %}
 
@@ -12,6 +12,8 @@
         {{ content }}
       </div>
     </div>
+
+    <div class="wrapper flex-grow-1"></div>
 
     {% include footer.html %}
 
