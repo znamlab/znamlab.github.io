@@ -1,0 +1,24 @@
+- name: Petr Znamenskiy
+  photo: Petr.jpg
+  info: Group Leader
+  email: petr.znamenskiy@crick.ac.uk
+
+- name: Benita Turner-Bridger
+  photo: Benita.jpg
+  info: Postdoctoral Training Fellow
+  email: benita.turner-bridger@crick.ac.uk
+
+- name: Antonin Blot
+  photo: Antonin.jpg
+  info: Senior Laboratory Research Scientist
+  email: antonin.blot@crick.ac.uk
+
+- name: Alex Becalick
+  photo: Alex.jpg
+  info: PhD student
+  email: alex.becalick@crick.ac.uk
+
+- name: Yiran He
+  photo: Yiran.jpg
+  info: PhD student
+  email: yiran.he@crick.ac.uk
