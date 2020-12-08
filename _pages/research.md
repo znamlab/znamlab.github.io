@@ -29,8 +29,7 @@ probe neuronal connectivity in a scalable manner. Existing approaches, such as
 serial electron microscopy or multiple patch clamp recordings, are extremely
 labor-intensive and largely limited to probing local connections.
 
-To overcome these limitations, in collaboration with [Sam
-Rodriques](https://www.appliedbiotechlab.com/) we are working on new ways of
+To overcome these limitations, we are working on new ways of
 using molecular methods to read out neuronal connectivity and relate it to
 gene expression in individual neurons.
 
@@ -40,7 +39,7 @@ the three-dimensional structure of the environment. However, the visual signals
 available to the brain are limited to the two-dimensional images formed on the
 retinae and the visual system must infer the missing depth information. The
 ethological importance of these computations is illustrated by the fact that
-capacity for depth perception appears to be innate in many vertebrate and not
+capacity for depth perception appears to be innate in many vertebrates and not
 dependent on visual experience. This suggests that evolution has imbued the visual
 system with hard-wired circuits for depth perception.
 
