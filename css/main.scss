@@ -26,9 +26,14 @@ body {
 .bigtitle {
 	font-size: $font-size-base * 2;
 	line-height: 40px;
-  padding-top: 30px;
   color: $logo;
 	/* Museo */
+}
+
+@media (min-width: 768px) {
+    .bigtitle {
+      padding-top: 30px;
+    }
 }
 
 .membertitle {
