@@ -28,6 +28,6 @@ We also welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
 interested in carrying out their research projects in the lab.
 
 <figure class="figure text-center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/crick_photo.jpg" class="img-thumbnail w-50" alt="An evening at the Crick.">
+<img src="{{ site.url }}{{ site.baseurl }}/images/carousel/crick_photo.jpg" class="img-thumbnail w-100" alt="An evening at the Crick.">
 <figcaption class="figure-caption">An evening at the Crick.</figcaption>
 </figure>

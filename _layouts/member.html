@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign member = page %}
+
+<div class="col-xs-4 col-md-3">
+  <img class="float-left mw-100" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" width=250>
+</div>
+<div class="col-xs-8 col-md-9">
+  <div class="membertitle">{{ member.title }}</div>
+  <p>{{ member.info }} <br />
+  <a href="maito:{{ member.email }}">{{ member.email }}</a></p>
+</div>
+
+<div class="w-100"></div>
+
+<div class="col-xs-4 col-md-3">
+  <p></p>
+</div>
+<div class="col-xs-8 col-md-9">
+  {{ content }}
+</div>

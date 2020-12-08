@@ -8,13 +8,23 @@ permalink: /team/
 # Lab Members
 
 <div class="row">
-{% for member in site.data.team_members %}
+{% for member in site.categories.team reversed %}
 
 <div class="col-sm-3">
+  {% if member.link_to_page %}
+  <a href="{{ member.url }}">
   <img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}">
+  </a>
+  {% else %}
+  <img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}">
+  {% endif %}
 </div>
 <div class="col-sm-3 align-self-center">
-    <h3>{{ member.name }}</h3>
+    {% if member.link_to_page %}
+    <a href="{{ member.url }}"><h3>{{ member.title }}</h3></a>
+    {% else %}
+    <h3>{{ member.title }}</h3>
+    {% endif %}
     <p>{{ member.info }} <br />
     <a href="maito:{{ member.email }}">{{ member.email }}</a></p>
 </div>

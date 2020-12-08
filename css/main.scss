@@ -7,12 +7,45 @@
 
 
 body {
-    padding-top: 100px;
+    padding-top: 70px;
 }
+
+.biglogo {
+	height: 170px;
+  width: auto;
+  padding-bottom: 20px;
+}
+
+.titlebox {
+	height: 150px;
+	display: table-cell;
+	vertical-align: middle;
+  padding-left: 15px;
+}
+
+.bigtitle {
+	font-size: $font-size-base * 2;
+	line-height: 40px;
+  padding-top: 30px;
+  color: $logo;
+	/* Museo */
+}
+
+.membertitle {
+	font-size: $font-size-base * 2;
+	line-height: 40px;
+	/* Museo */
+}
+
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-text {
     color: $logo;
+}
+
+.navbar-light .navbar-brand {
+  font-size: $font-size-base * 1.25;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -37,23 +70,6 @@ body {
 }
 
 /* Top navigation bar */
-
-
-p.byline {
-	text-align: center;
-	font-size: 18px;
-	line-height: 36px;
-	margin-top: -24px;
-	margin-bottom: 48px;
-}
-
-
-pubtit {
-	font-weight: bold;
-}
-
-firstp {
-}
 
 .container-fluid {
   margin-right: auto;
@@ -81,9 +97,15 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+/* Grid overrides */
+.col-xs-3, .col-xs-9 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+
 
 /* Carusel */
-
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
