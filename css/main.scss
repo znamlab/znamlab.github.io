@@ -17,20 +17,23 @@ body {
 }
 
 .titlebox {
-	height: 170px;
+	height: 140px;
 	display: table-cell;
 	vertical-align: middle;
   padding-left: 15px;
 }
 
 .bigtitle {
-	font-size: $font-size-base * 1.75;
+	font-size: $font-size-base * 1.5;
 	line-height: 40px;
   color: $logo;
 	/* Museo */
 }
 
 @media (min-width: 768px) {
+    .titlebox {
+  	   height: 170px;
+    }
     .biglogo {
       height: 170px;
     }
