@@ -26,7 +26,7 @@ permalink: /team/
     <h3>{{ member.title }}</h3>
     {% endif %}
     <p>{{ member.info }} <br />
-    <a href="maito:{{ member.email }}">{{ member.email }}</a></p>
+    </p>
 </div>
 
 {% assign even_odd = forloop.index | modulo: 2 %}
