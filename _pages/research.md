@@ -23,8 +23,9 @@ developing new tools to manipulate gene expression and assay connectivity and
 functional properties of thousands of neurons in parallel.
 
 ## Connectomics
+![]({{ site.url }}{{ site.baseurl }}/images/wiring.jpg){: style="width: 250px; float: left; margin: 0px 10px 0px 0px"}
 One of the major obstacles toward understanding how the properties of neurons
-arise from the structure of their synaptic connections is that we lack tools to
+arise from the structure of their synaptic connections is the lack of tools to
 probe neuronal connectivity in a scalable manner. Existing approaches, such as
 serial electron microscopy or multiple patch clamp recordings, are extremely
 labor-intensive and largely limited to probing local connections.
