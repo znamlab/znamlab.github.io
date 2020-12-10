@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   product of the structure of their synaptic connections and how gene expression
   program's of cortical neurons guide their wiring.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://znamlab.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  znamlab
 
 sass:
