@@ -1,0 +1,48 @@
+- title: "PINP: a new method of tagging neuronal populations for identification during in vivo electrophysiological recording"
+  authors: SQ Lima, T Hromádka, P Znamenskiy, AM Zador
+  ref: PLoS one, 2009
+  description: We demonstrated, for the first time, that optogenetic tagging could be used to identify genetically or anatomically defined neuronal populations during extracellular recordings.
+  image:
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006099"
+
+- title: Corticostriatal neurons in auditory cortex drive decisions during auditory discrimination
+  authors: P Znamenskiy, AM Zador
+  ref: Nature, 2013
+  description: We showed that manipulating the activity of auditory cortex neurons projecting to the striatum biased animals' choices in an auditory discrimination task. These results demonstrated that these projection neurons help convey information about sensory stimuli to drive motor actions when animals make decisions based on auditory cues. 
+  image:
+  url: "https://www.nature.com/articles/nature12077"
+
+- title: Long-term Cre-mediated retrograde tagging of neurons using a novel recombinant pseudorabies virus
+  authors: HK Oyibo*, P Znamenskiy*, HV Oviedo, LW Enquist, AM Zador
+  ref: Frontiers in neuroanatomy, 2014
+  description: We developed a new tool for genetic targeting of neurons based on the target of their long-range projections. Pseudorabies virus undergoes efficient retrograde spread in the nervous system but is highly toxic to neurons. By knocking out the gene encoding IE180, its master transcriptional regulator, we engineered recombinant PRVs that can infect and label neurons without any cytopathic effects.
+  image: oyibo_2014.png
+  url: "https://www.frontiersin.org/articles/10.3389/fnana.2014.00086/full"
+
+- title: Selective corticostriatal plasticity during acquisition of an auditory discrimination task
+  authors: Q Xiong*, P Znamenskiy*, AM Zador
+  ref: Nature, 2015
+  description: We used optogenetic stimulation to track the plasticity of corticostriatal connections in rats learning an auditory frequency discrimination task. Remarkably, by characterizing the spatial pattern of corticostriatal synaptic strength ex vivo we were able to decode the association between sound frequency and motor responses that the rats had learned.
+  image:
+  url: "https://www.nature.com/articles/nature14225"
+
+- title: Functional selectivity and specific connectivity of inhibitory neurons in primary visual cortex
+  authors: P Znamenskiy*, MH Kim*, DR Muir*, MF Iacaruso, SB Hofer, TD Mrsic-Flogel
+  ref: bioRxiv, 294835, 2018
+  description: We discovered that the connectivity of PV+ inhibitory neurons in visual cortex is more precise than previously thought. By characterizing their synaptic connectivity and relating it to their visual responses in vivo, we found that the synaptic strength of their connections with nearby excitatory cells is correlated with the similarity of their visual responses.
+  image: znamenskiy_2018.png
+  url:
+
+- title: Segregated subnetworks of intracortical projection neurons in primary visual cortex
+  authors: MH Kim*, P Znamenskiy*, MF Iacaruso, TD Mrsic-Flogel
+  ref: Neuron, 2018
+  description: We discovered that nearby V1 neurons projecting to different higher visual areas very rarely make connections with each other. Differences in response properties between these populations fell short of explaining this segregated connectivity, suggesting that these population may be hard-wired to avoid making synaptic connections.
+  image: kim_2018.jpg
+  url: "https://linkinghub.elsevier.com/retrieve/pii/S0896-6273(18)30911-5"
+
+- title: Mesoscale cortical dynamics reflect the interaction of sensory evidence and temporal expectation during perceptual decision-making
+  authors: I Orsolic, M Rio, TD Mrsic-Flogel, P Znamenskiy
+  ref: bioRxiv, 552026, 2019
+  description: We used widefield calcium imaging in a new behavioral task to track how sensory evidence is processed during as mice make perceptual decisions. We showed that while execution of behavioral responses in the task had a global impact on cortical activity, processing of sensory evidence triggered localized responses.
+  image: orsolic_2019.png
+  url: "https://www.biorxiv.org/content/10.1101/552026v1"
