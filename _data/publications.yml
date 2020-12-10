@@ -8,7 +8,7 @@
 - title: Corticostriatal neurons in auditory cortex drive decisions during auditory discrimination
   authors: P Znamenskiy, AM Zador
   ref: Nature, 2013
-  description: We showed that manipulating the activity of auditory cortex neurons projecting to the striatum biased animals' choices in an auditory discrimination task. These results demonstrated that these projection neurons help convey information about sensory stimuli to drive motor actions when animals make decisions based on auditory cues. 
+  description: We showed that manipulating the activity of auditory cortex neurons projecting to the striatum biased animals' choices in an auditory discrimination task. These results demonstrated that these projection neurons help convey information about sensory stimuli to drive motor actions when animals make decisions based on auditory cues.
   image:
   url: "https://www.nature.com/articles/nature12077"
 
@@ -31,7 +31,7 @@
   ref: bioRxiv, 294835, 2018
   description: We discovered that the connectivity of PV+ inhibitory neurons in visual cortex is more precise than previously thought. By characterizing their synaptic connectivity and relating it to their visual responses in vivo, we found that the synaptic strength of their connections with nearby excitatory cells is correlated with the similarity of their visual responses.
   image: znamenskiy_2018.png
-  url:
+  url: "https://www.biorxiv.org/content/10.1101/294835v2"
 
 - title: Segregated subnetworks of intracortical projection neurons in primary visual cortex
   authors: MH Kim*, P Znamenskiy*, MF Iacaruso, TD Mrsic-Flogel
