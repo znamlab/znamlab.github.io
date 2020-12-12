@@ -9,7 +9,8 @@ the team page in order of joining.
 
 The lab member files have the following header (I am using mine as an example):
 
-`---
+```
+---
 layout: member
 title: Petr Znamenskiy
 photo: Petr.jpg
@@ -19,7 +20,8 @@ github: znamensk
 twitter: petrzzz
 scholar: "https://scholar.google.com/citations?user=tZ3hWEYAAAAJ"
 link_to_page: yes
----`
+---
+```
 
 Any of the fields except `title` and `info` can be omitted or left blank, in which
 case the relevant item wont appear on the website. If you omit `link_to_page`
