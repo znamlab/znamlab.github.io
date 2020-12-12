@@ -2,9 +2,21 @@
 Lab website of the Specification and Function of Neural Circuits Laboratory at
 the Francis Crick Institute.
 
+## Modifying the website
+You can make edits to the website either directly on Github or by cloning the
+repo, editing it on your local machine, and then pushing the changes. The latter
+approach is recommended as it lets you preview any changes that you've made
+before updating the public website. To do that you will need to install
+[Jekyll](https://jekyllrb.com/).
+
+Once you have Jekyll setup, simply navigate to the
+repo directory in terminal and type `bundle exec jekyll serve`, which will
+build the site and start a local HTTP server so that you can view it in your
+browser.
+
 ## Updating your personal info
 You will find your personal page under `team/_posts`. The file name should start
-with your start date in the lab -- this is to ensure that lab members appear on
+with your start date in the lab - this is to ensure that lab members appear on
 the team page in order of joining.
 
 The lab member files have the following header (I am using mine as an example):
