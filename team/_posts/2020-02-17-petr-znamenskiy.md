@@ -21,11 +21,11 @@ at UCL.
 
 My research programme is focused on the molecular mechanisms that contribute to
 the functional and anatomical diversity of cortical neurons. The neocortex is
-not tabula rasa but a product of tens of millions of years of evolution that has
+not tabula rasa but a product of tens of millions of years of evolution that have
 shaped cortical circuits to perform computations essential for survival. These
 evolutionary adaptations can be thought of as inductive biases that help animals
 take advantage of the accumulated knowledge of their ancestors, passed down to
 them in form of genetic instructions for wiring networks of neurons. Our mission
 is to decypher these instructions by investigating how gene expression
 programmes of cortical neurons constrain their synaptic wiring and understanding
-how the role of the resulting circuits in behavior.   
+the role of the resulting circuits in behavior.   
