@@ -1,6 +1,6 @@
 ---
 layout: member
 title: Antonin Blot
-photo: placeholder_1.png
+photo: Antonin.jpg
 info: Senior Laboratory Research Scientist
 ---
