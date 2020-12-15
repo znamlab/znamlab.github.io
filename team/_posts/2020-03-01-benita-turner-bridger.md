@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Benita Turner-Bridger
-photo: placeholder_2.png
+photo: benita_bio_photo.jpg
 info: Postdoctoral Training Fellow
 email: Benita.Turner-Bridger@crick.ac.uk
 link_to_page: yes
