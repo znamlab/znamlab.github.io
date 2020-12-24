@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 <div class="col-sm-12">
-<img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/lab_logo.svg">
+<img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/lab_logo_color.svg">
 <div class="bigtitle titlebox">
 Specification and Function of Neural Circuits Laboratory
 </div>
