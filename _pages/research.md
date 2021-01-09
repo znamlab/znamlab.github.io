@@ -1,9 +1,9 @@
 ---
 title: "Znamenskiy Lab - Research"
 layout: textlay
-excerpt: "Znamenskiy Lab - Research"
+excerpt: "We are interested in understanding the relationships between gene expression, connectivity and function of cortical neurons."
 sitemap: false
-permalink: /research.html
+permalink: /research
 ---
 # Research
 

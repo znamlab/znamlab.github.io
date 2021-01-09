@@ -1,6 +1,6 @@
 ---
 layout: homelay
-excerpt: "Znamenskiy Lab at the Francis Crick Institute"
+excerpt: "Znamenskiy lab at the Francis Crick Institute studying the relationships between gene expression, connectivity and function of cortical neurons."
 sitemap: false
 permalink: /
 ---

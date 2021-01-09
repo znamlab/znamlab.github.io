@@ -1,7 +1,7 @@
 ---
 title: "Znamenskiy Lab - Join"
 layout: textlay
-excerpt: "Join"
+excerpt: "Opportunities to join the Znamenskiy lab at the Francis Crick Institute"
 sitemap: false
 permalink: /vacancies
 ---

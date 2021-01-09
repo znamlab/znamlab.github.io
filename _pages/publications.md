@@ -1,9 +1,9 @@
 ---
 title: "Znamenskiy Lab - Publications"
 layout: gridlay
-excerpt: "Znamenskiy Lab -- Publications."
+excerpt: "Znamenskiy Lab - Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 

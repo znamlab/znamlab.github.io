@@ -1,9 +1,9 @@
 ---
 title: "Znamenskiy Lab - Contact"
 layout: default
-excerpt: "Znamenskiy Lab - Contact"
+excerpt: "Get in touch with the Znamenskiy lab at the Francis Crick Institute"
 sitemap: false
-permalink: /contact.html
+permalink: /contact
 ---
 
 <div class="col-sm-6 text-center">

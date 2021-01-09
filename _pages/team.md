@@ -1,9 +1,9 @@
 ---
 title: "Znamenskiy Lab - Team Members"
 layout: gridlay
-excerpt: "Znamenskiy Lab: Team members"
+excerpt: "Members of the Znamenskiy lab at the Francis Crick Institute"
 sitemap: false
-permalink: /team/
+permalink: /team
 ---
 # Lab Members
 
