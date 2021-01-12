@@ -21,8 +21,8 @@ Molecular Biology, Computer Science, and Bioengineering. PhD students can join t
 via the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
 as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/content/phd-programme).
 
-### Undergraduate and Master students
-We currently have position for a summer undergraduate research project in the lab as a part of the [Crick-Calleva Summer Student programme](https://www.crick.ac.uk/careers-study/students/summer-students).
+## Undergraduate and Master students
+We currently have position for a summer undergraduate research project in the lab as a part of the [Crick-Calleva Summer Student programme](https://www.crick.ac.uk/careers-study/students/summer-students). Find out more about the project [here](https://www.crick.ac.uk/careers-study/students/summer-students/positions-crick-calleva-summer-student-programme/identifying-genes-that-shape-the-wiring-of-long-range-neocortical-projections-during-development).
 We also welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
 interested in carrying out their research projects in the lab.
 
