@@ -22,8 +22,7 @@ via the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/p
 as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/content/phd-programme).
 
 ### Undergraduate and Master students
-Opportunities for summer undergraduate research projects in the lab may be
-available through the [Crick-Calleva Summer Student programme](https://www.crick.ac.uk/careers-study/students/summer-students).
+We currently have position for a summer undergraduate research project in the lab as a part of the [Crick-Calleva Summer Student programme](https://www.crick.ac.uk/careers-study/students/summer-students).
 We also welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
 interested in carrying out their research projects in the lab.
 
