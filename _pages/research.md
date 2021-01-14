@@ -8,6 +8,7 @@ permalink: /research
 # Research
 
 ## Molecular mechanisms of cortical wiring
+![]({{ site.url }}{{ site.baseurl }}/images/neurons_zstack_crop.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
 The neocortex contains a multitude of cell-types, which follow different rules in
 selecting their inputs and outputs that ultimately define their role in the circuit.
 We are interested in understanding how the gene expression programs of these cell
@@ -35,6 +36,7 @@ using molecular methods to read out neuronal connectivity and relate it to
 gene expression in individual neurons.
 
 ## Vision in three dimensions
+![]({{ site.url }}{{ site.baseurl }}/images/2p_setup.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
 Among all the senses, vision is exceptionally attuned to provide detailed information about
 the three-dimensional structure of the environment. However, the visual signals
 available to the brain are limited to the two-dimensional images formed on the
@@ -46,4 +48,17 @@ system with hard-wired circuits for depth perception.
 
 Aiming to understand the circuit basis of these computations, we are studying how
 neurons in the visual cortex encode the three-dimensional location of visual cues
-using recordings in virtual and augmented reality environments.  
+in virtual and augmented reality environments using two-photon
+calcium imaging and high-density electrophysiology ([Neuropixels probes](https://www.neuropixels.org/)).  
+
+# Our collaborators
+## Collaborators at the Crick
+* [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
+* [Dr. Sam Rodriques, Applied Biotechnology Laboratory](https://www.appliedbiotechlab.com/)
+* [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
+
+## External collaborators
+* [Prof. Tom Mrsic-Flogel, Sainsbury Wellcome Centre, UCL](https://www.sainsburywellcome.org/web/groups/mrsic-flogel-lab)
+* [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
+* [Prof. Randall Platt, ETH Zurich, Switzerland](https://bsse.ethz.ch/platt)
+* [Dr. Arne Meyer, Donders Institute for Brain, Cognition and Behaviour, Netherlands](http://arnefmeyer.github.io/)
