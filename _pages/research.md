@@ -36,7 +36,7 @@ using molecular methods to read out neuronal connectivity and relate it to
 gene expression in individual neurons.
 
 ## Vision in three dimensions
-![]({{ site.url }}{{ site.baseurl }}/images/2p_setup.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/setup_panorama.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
 Among all the senses, vision is exceptionally attuned to provide detailed information about
 the three-dimensional structure of the environment. However, the visual signals
 available to the brain are limited to the two-dimensional images formed on the
