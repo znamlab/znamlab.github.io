@@ -8,6 +8,7 @@ github: znamensk
 twitter: petrzzz
 scholar: "https://scholar.google.com/citations?user=tZ3hWEYAAAAJ"
 link_to_page: yes
+alumni: no
 ---
 I am a Group Leader at [the Francis Crick Institute](https://www.crick.ac.uk/)
 and an Affiliate Member of [the Sainsbury Wellcome

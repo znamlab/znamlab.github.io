@@ -7,6 +7,7 @@ email: Caroline.Cypranowska@crick.ac.uk
 github: cypranowska
 scholar: "https://scholar.google.com/citations?user=5v0MHl8AAAAJ&hl"
 link_to_page: yes
+alumni: no
 ---
 I am a postdoc in the Znamenskiy lab interested in understanding the relationship between the gene expression and neuronal activity in the visual cortex.
 
