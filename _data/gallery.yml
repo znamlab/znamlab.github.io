@@ -1,11 +1,14 @@
 - name: neurons_zstack.jpg
   alt: Depth-coded orojection of a Z-stack of cortical neurons
 
-- name: regents_park.JPG
-  alt: Lab outing to Regent's park
+- name: lab_walk.JPG
+  alt: Lab outing to the North Downs
 
 - name: microscope.jpg
   alt: Two-photon microscope with eye and behavior tracking cameras
+
+- name: tetrode_drive.jpg
+  alt: Tetrode microdrive array
 
 - name: crick_exterior.jpg
   alt: The facade of the Francis Crick Institute
