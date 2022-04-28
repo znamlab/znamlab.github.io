@@ -7,6 +7,44 @@ permalink: /research
 ---
 # Research
 
+## Coordinate transformations in the visual system
+![]({{ site.url }}{{ site.baseurl }}/images/setup_panorama.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
+To use vision to guide behavior, the visual system transforms the visual
+inputs arriving from the retinae into different coordinate frames. These
+transformations maintain a persistent representation of the visual scene during
+shifts in the direction of gaze and movement of the observer. One of the goals
+of the lab is to identify how these coordinate transformations are carried out
+by neurons in the visual cortical hierarchy.
+
+Among all the senses, vision is exceptionally attuned to provide detailed information about
+the three-dimensional structure of the environment. However, the visual signals
+available to the brain are limited to the two-dimensional images formed on the
+retinae and the visual system must infer the missing depth information. The
+ethological importance of these computations is illustrated by the fact that
+capacity for depth perception appears to be innate in many vertebrates and not
+dependent on visual experience. This suggests that evolution has imbued the visual
+system with hard-wired circuits for depth perception.
+
+Aiming to understand the circuit basis of these computations, we are studying how
+neurons in the visual cortex encode the three-dimensional location of visual cues
+in virtual and augmented reality environments using two-photon
+calcium imaging and high-density electrophysiology.
+
+## Connectomics
+![]({{ site.url }}{{ site.baseurl }}/images/wiring.jpg){: style="width: 250px; float: left; margin: 0px 10px 0px 0px"}
+One of the major obstacles toward understanding how the properties of neurons
+arise from the structure of their synaptic connections is the lack of tools to
+probe neuronal connectivity in a scalable manner. Existing approaches, such as
+serial electron microscopy or multiple patch clamp recordings, are extremely
+labor-intensive and largely limited to probing local connections. To overcome
+these limitations, we are working on new ways of using molecular methods to
+read out neuronal connectivity and relate it to gene expression in individual
+neurons.
+
+Our goal is to apply these new methods to understand the rules that different
+cell types of cortical neurons follow in selecting their synaptic inputs and how
+these rules differ between cortical areas and across the mammalian lineage.
+
 ## Molecular mechanisms of cortical wiring
 ![]({{ site.url }}{{ site.baseurl }}/images/neurons_zstack_crop.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
 The neocortex contains a multitude of cell-types, which follow different rules in
@@ -23,42 +61,13 @@ and acquire their specialized response properties. To this end, we are
 developing new tools to manipulate gene expression and assay connectivity and
 functional properties of thousands of neurons in parallel.
 
-## Connectomics
-![]({{ site.url }}{{ site.baseurl }}/images/wiring.jpg){: style="width: 250px; float: left; margin: 0px 10px 0px 0px"}
-One of the major obstacles toward understanding how the properties of neurons
-arise from the structure of their synaptic connections is the lack of tools to
-probe neuronal connectivity in a scalable manner. Existing approaches, such as
-serial electron microscopy or multiple patch clamp recordings, are extremely
-labor-intensive and largely limited to probing local connections.
-
-To overcome these limitations, we are working on new ways of
-using molecular methods to read out neuronal connectivity and relate it to
-gene expression in individual neurons.
-
-## Vision in three dimensions
-![]({{ site.url }}{{ site.baseurl }}/images/setup_panorama.jpg){: style="width: 250px; float: right; margin: 0px 0px 10px 0px"}
-Among all the senses, vision is exceptionally attuned to provide detailed information about
-the three-dimensional structure of the environment. However, the visual signals
-available to the brain are limited to the two-dimensional images formed on the
-retinae and the visual system must infer the missing depth information. The
-ethological importance of these computations is illustrated by the fact that
-capacity for depth perception appears to be innate in many vertebrates and not
-dependent on visual experience. This suggests that evolution has imbued the visual
-system with hard-wired circuits for depth perception.
-
-Aiming to understand the circuit basis of these computations, we are studying how
-neurons in the visual cortex encode the three-dimensional location of visual cues
-in virtual and augmented reality environments using two-photon
-calcium imaging and high-density electrophysiology ([Neuropixels probes](https://www.neuropixels.org/)).  
-
 # Our collaborators
 ## Collaborators at the Crick
 * [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
-* [Dr. Sam Rodriques, Applied Biotechnology Laboratory](https://www.appliedbiotechlab.com/)
 * [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
+* [Dr. Sam Rodriques, Applied Biotechnology Laboratory](https://www.appliedbiotechlab.com/)
 
 ## External collaborators
+* [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
 * [Prof. Tom Mrsic-Flogel, Sainsbury Wellcome Centre, UCL](https://www.sainsburywellcome.org/web/groups/mrsic-flogel-lab)
 * [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
-* [Prof. Randall Platt, ETH Zurich, Switzerland](https://bsse.ethz.ch/platt)
-* [Dr. Arne Meyer, Donders Institute for Brain, Cognition and Behaviour, Netherlands](http://arnefmeyer.github.io/)
