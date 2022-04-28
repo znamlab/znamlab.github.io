@@ -1,5 +1,8 @@
 - name: neurons_zstack.jpg
-  alt: Depth-coded orojection of a Z-stack of cortical neurons
+  alt: Depth-coded projection of a Z-stack of cortical neurons
+
+- name: brain.jpg
+  alt: In situ for cell type specific markers
 
 - name: lab_walk.jpg
   alt: Lab outing to the North Downs
