@@ -22,9 +22,9 @@ via the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/p
 as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/content/phd-programme).
 
 ## Undergraduate and Master students
-We currently have position for a summer undergraduate research project in the lab as a part of the [Crick-Calleva Summer Student programme](https://www.crick.ac.uk/careers-study/students/summer-students). Find out more about the project [here](https://www.crick.ac.uk/careers-study/students/summer-students/positions-crick-calleva-summer-student-programme/identifying-genes-that-shape-the-wiring-of-long-range-neocortical-projections-during-development).
-We also welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
-interested in carrying out their research projects in the lab.
+We welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
+interested in carrying out their research projects in the lab. Please get in
+touch with <a href="{{ site.url }}{{ site.baseurl }}/contact">Petr</a>.
 
 <figure class="figure text-center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/crick_photo.jpg" class="img-thumbnail w-100" alt="An evening at the Crick.">

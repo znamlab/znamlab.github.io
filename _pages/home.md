@@ -19,7 +19,7 @@ Specification and Function of Neural Circuits Laboratory
   to understand how the activity of specialized classes of cortical neurons
   enables animals to see, how it emerges from the structure of their connections,
   and how these connections are established during development. To answer these
-  question we combine the approaches of molecular and systems neuroscience and
+  questions we combine the approaches of molecular and systems neuroscience and
   develop new tools to study the relationships between gene expression
   and connectivity of neurons at scale.
   </p>
