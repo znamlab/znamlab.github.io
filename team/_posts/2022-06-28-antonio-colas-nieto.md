@@ -4,6 +4,7 @@ title: Antonio Colás Nieto
 photo: Antonio.jpg
 info: LRO
 email: colasa@crick.ac.uk
+twitter: populusalba9
 link_to_page: yes
 alumni: no
 ---
