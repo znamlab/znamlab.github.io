@@ -14,12 +14,16 @@ including a CV and a cover letter describing their research interests and
 motivation for joining the lab.
 
 ## PhD students
-Prospective PhD students interested in joining the lab should contact
-<a href="{{ site.url }}{{ site.baseurl }}/contact">Petr</a> and include
-a CV. We encourage applications from a broad range of backgrounds, including Neuroscience,
-Molecular Biology, Computer Science, and Bioengineering. PhD students can join the lab
-via the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
+PhD students can join the lab via the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
 as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/content/phd-programme).
+
+We have multiple openings for PhD students starting in the 2024 academic year:
+* PhD studentship in the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
+* Joint Crick / King's College London PhD studentship in collaboration with [Dr. Laura Andreae](https://www.kcl.ac.uk/people/laura-andreae)
+* Doctoral Fellowship for clinician as a part of the [Crick's Doctoral Clinical Fellows programme](https://www.crick.ac.uk/careers-study/clinical-fellows/doctoral-clinical-fellows)
+
+More information about potential projects coming soon! Applications will open in October 2023.
+
 
 ## Undergraduate and Master students
 We welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
