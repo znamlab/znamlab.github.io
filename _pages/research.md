@@ -65,9 +65,11 @@ functional properties of thousands of neurons in parallel.
 ## Collaborators at the Crick
 * [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
 * [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
-* [Dr. Sam Rodriques, Applied Biotechnology Laboratory](https://www.appliedbiotechlab.com/)
+* [Dr. Katharina Schmack, Neural Circuits and Immunity in Psychosis Laboratory](https://www.crick.ac.uk/research/labs/katharina-schmack)
+* [Dr. Leanne Li, Cancer-Neuroscience Laboratory](https://www.crick.ac.uk/research/labs/leanne-li)
 
 ## External collaborators
 * [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
-* [Prof. Tom Mrsic-Flogel, Sainsbury Wellcome Centre, UCL](https://www.sainsburywellcome.org/web/groups/mrsic-flogel-lab)
+* Dr. Mathieu Bourdenx, UK Dementia Research Institute, UCL
+* [Dr. Harry Bulstrode, Wellcome-MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/people/pi/bulstrode)
 * [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
