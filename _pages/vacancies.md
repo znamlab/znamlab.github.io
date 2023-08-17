@@ -20,7 +20,7 @@ as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.
 We have multiple openings for PhD students starting in the 2024 academic year:
 * PhD studentship in the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
 * Joint Crick / King's College London PhD studentship in collaboration with [Dr. Laura Andreae](https://www.kcl.ac.uk/people/laura-andreae)
-* Doctoral Fellowship for clinician as a part of the [Crick's Doctoral Clinical Fellows programme](https://www.crick.ac.uk/careers-study/clinical-fellows/doctoral-clinical-fellows)
+* Doctoral Fellowship for clinicians as a part of the [Crick's Doctoral Clinical Fellows programme](https://www.crick.ac.uk/careers-study/clinical-fellows/doctoral-clinical-fellows)
 
 More information about potential projects coming soon! Applications will open in October 2023.
 
