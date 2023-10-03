@@ -25,7 +25,7 @@ Specification and Function of Neural Circuits Laboratory
   </p>
 </div>
 
-<div class="col-12">
+<div class="col-12" markdown="1">
 <div class="carousel slide" data-ride="carousel">
   <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
     {% for image in site.data.gallery %}
@@ -39,6 +39,20 @@ Specification and Function of Neural Circuits Laboratory
     {% endfor %}
   </div>
 </div>
+
+# Our collaborators
+## Collaborators at the Crick
+* [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
+* [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
+* [Dr. Katharina Schmack, Neural Circuits and Immunity in Psychosis Laboratory](https://www.crick.ac.uk/research/labs/katharina-schmack)
+* [Dr. Leanne Li, Cancer-Neuroscience Laboratory](https://www.crick.ac.uk/research/labs/leanne-li)
+
+## External collaborators
+* [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
+* Dr. Mathieu Bourdenx, UK Dementia Research Institute, UCL
+* [Dr. Harry Bulstrode, Wellcome-MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/people/pi/bulstrode)
+* [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
+
 </div>
 
 <div class="col-sm-12">
@@ -54,5 +68,6 @@ a partnership between
 <a href="https://www.imperial.ac.uk/">Imperial College London</a> and
 <a href="https://www.kcl.ac.uk/">King's College London</a>.
 </p>
+
 <p></p>
 </div>

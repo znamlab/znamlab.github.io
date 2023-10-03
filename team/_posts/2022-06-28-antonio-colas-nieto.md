@@ -6,7 +6,7 @@ info: LRO
 email: colasa@crick.ac.uk
 twitter: populusalba9
 link_to_page: yes
-alumni: no
+alumni: yes
 ---
 
 I am a Laboratory Research Officcer at the lab. My project will revolve around mouse electrophysiology in a virtual environment, in order to understand more about how depth is perceived in the primary visual cortex. I'll collaborate with Yiran and Antonin. 

@@ -18,12 +18,9 @@ PhD students can join the lab via the [Crick's PhD programme](https://www.crick.
 as well as via the PhD programme of the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/content/phd-programme).
 
 We have multiple openings for PhD students starting in the 2024 academic year:
-* PhD studentship in the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students)
-* Joint Crick / King's College London PhD studentship in collaboration with [Dr. Laura Andreae](https://www.kcl.ac.uk/people/laura-andreae)
-* Doctoral Fellowship for clinicians as a part of the [Crick's Doctoral Clinical Fellows programme](https://www.crick.ac.uk/careers-study/clinical-fellows/doctoral-clinical-fellows)
-
-More information about potential projects coming soon! Applications will open in October 2023.
-
+* PhD studentship in the [Crick's PhD programme](https://www.crick.ac.uk/careers-study/students/phd-students) to use high-throughput molecular connectomics to map neocortical circuits. More details [here](https://www.crick.ac.uk/careers-study/vacancies/2023-09-15-znamenskiy-lab-mapping-the-neocortical-circuit-diagram-with-high-throughput-molecular-connectomics).
+* Joint Crick / King's College London PhD studentship in collaboration with [Dr. Laura Andreae](https://www.kcl.ac.uk/people/laura-andreae) to investigate the mechanisms of development of corticocortical connections in the visual cortex. More details [here](https://www.crick.ac.uk/careers-study/vacancies/2023-09-14-znamenskiy-andreae-mechanisms-of-development-of-corticocortical-connections-in-the-visual-cortex).
+* Doctoral Fellowship for clinicians as a part of the [Crick's Doctoral Clinical Fellows programme](https://www.crick.ac.uk/careers-study/clinical-fellows/doctoral-clinical-fellows) to map neural circuits in human cortical tissue. More details [here](https://www.crick.ac.uk/careers-study/vacancies/2023-10-02-znamenskiy-kullmann-mapping-human-neocortical-circuits-with-high-throughput-molecular-connectomics).
 
 ## Undergraduate and Master students
 We welcome enquiries from MSc students enrolled at UCL, King's, or Imperial
