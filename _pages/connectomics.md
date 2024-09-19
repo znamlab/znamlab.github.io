@@ -19,7 +19,6 @@ neurons. Our goal is to apply these new methods to understand the rules that dif
 cell types of cortical neurons follow in selecting their synaptic inputs and how
 these rules differ between cortical areas and across the mammalian lineage.
 
-
 <figure class="figure text-center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/rabies2.gif" class="img-thumbnail" alt="Example barcoded neurons and their inputs">
 <figcaption class="figure-caption">Example barcoded neurons and their inputs</figcaption>
