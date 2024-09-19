@@ -21,7 +21,7 @@ these rules differ between cortical areas and across the mammalian lineage.
 
 
 <figure class="figure text-center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rabies2.gif" class="img-thumbnail w-50" alt="Example barcoded neurons and their inputs">
+<img src="{{ site.url }}{{ site.baseurl }}/images/rabies2.gif" class="img-thumbnail" alt="Example barcoded neurons and their inputs">
 <figcaption class="figure-caption">Example barcoded neurons and their inputs</figcaption>
 </figure>
 
