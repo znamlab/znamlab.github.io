@@ -20,6 +20,9 @@ layout: default
   {% if member.scholar %}
   <i class="fas fa-book fa-fw"></i>&nbsp; <a href="{{ member.scholar }}">{{ member.title }}</a>
   {% endif %}
+  {% if member.orcid %}
+  <i class="fab fa-orcid"></i>&nbsp; <a href="{{ member.orcid }}">{{ member.orcid }}</a>
+  {% endif %}
   </p>
 </div>
 
