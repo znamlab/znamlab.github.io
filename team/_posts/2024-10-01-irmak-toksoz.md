@@ -5,6 +5,7 @@ photo: irmak.jpg
 info: PhD student
 email: irmak.toksoz@crick.ac.uk
 orcid: "https://orcid.org/0000-0002-1755-203"
+google scholar: "https://scholar.google.co.uk/citations?user=yOF67fYAAAAJ&hl=en&oi=ao"
 link_to_page: yes
 alumni: no
 ---
