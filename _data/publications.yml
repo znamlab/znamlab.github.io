@@ -26,13 +26,6 @@
   image:
   url: "https://www.nature.com/articles/nature14225"
 
-- title: Functional specificity of recurrent inhibition in visual cortex
-  authors: P Znamenskiy*, MH Kim*, DR Muir*, MF Iacaruso, SB Hofer, TD Mrsic-Flogel
-  ref: Neuron, 2024
-  description: We discovered that the connectivity of PV+ inhibitory neurons in visual cortex is more precise than previously thought. By characterizing their synaptic connectivity and relating it to their visual responses in vivo, we found that the synaptic strength of their connections with nearby excitatory cells is correlated with the similarity of their visual responses.
-  image: znamenskiy_2018.png
-  url: "hhttps://www.sciencedirect.com/science/article/pii/S0896627323009728?via%3Dihub"
-
 - title: Segregated subnetworks of intracortical projection neurons in primary visual cortex
   authors: MH Kim*, P Znamenskiy*, MF Iacaruso, TD Mrsic-Flogel
   ref: Neuron, 2018
@@ -46,6 +39,13 @@
   description: We used widefield calcium imaging in a new behavioral task to track how sensory evidence is processed during as mice make perceptual decisions. We showed that while execution of behavioral responses in the task had a global impact on cortical activity, processing of sensory evidence triggered localized responses.
   image: orsolic_2019.png
   url: "https://www.sciencedirect.com/science/article/pii/S0896627321002014"
+
+- title: Functional specificity of recurrent inhibition in visual cortex
+  authors: P Znamenskiy*, MH Kim*, DR Muir*, MF Iacaruso, SB Hofer, TD Mrsic-Flogel
+  ref: Neuron, 2024
+  description: We discovered that the connectivity of PV+ inhibitory neurons in visual cortex is more precise than previously thought. By characterizing their synaptic connectivity and relating it to their visual responses in vivo, we found that the synaptic strength of their connections with nearby excitatory cells is correlated with the similarity of their visual responses.
+  image: znamenskiy_2018.png
+  url: "hhttps://www.sciencedirect.com/science/article/pii/S0896627323009728?via%3Dihub"
 
 - title: A depth map of visual space in the primary visual cortex
   authors: He Y, Colas Nieto A, Blot A, Znamenskiy P
