@@ -47,7 +47,7 @@
   image: orsolic_2019.png
   url: "https://www.sciencedirect.com/science/article/pii/S0896627321002014"
 
-- title: A depth map of visual space in the visual cortex
+- title: A depth map of visual space in the primary visual cortex
   authors: He Y, Colas Nieto A, Blot A, Znamenskiy P
   ref: bioRxiv, 2024
   description: We found that the responses of neurons in the mouse primary visual cortex are tuned for depth of visual cues driven by motion parallax. This selectivity arises as a product of integration of optic flow and locomotion-related signals. As the result, V1 neurons can be described by three-dimensional receptive fields - tuned for retinotopic location and depth.
