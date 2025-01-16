@@ -45,7 +45,7 @@
   ref: Neuron, 2024
   description: We discovered that the connectivity of PV+ inhibitory neurons in visual cortex is more precise than previously thought. By characterizing their synaptic connectivity and relating it to their visual responses in vivo, we found that the synaptic strength of their connections with nearby excitatory cells is correlated with the similarity of their visual responses.
   image: znamenskiy_2018.png
-  url: "hhttps://www.sciencedirect.com/science/article/pii/S0896627323009728?via%3Dihub"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627323009728"
 
 - title: A depth map of visual space in the primary visual cortex
   authors: He Y, Colas Nieto A, Blot A, Znamenskiy P
