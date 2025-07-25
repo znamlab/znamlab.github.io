@@ -53,3 +53,10 @@
   description: We found that the responses of neurons in the mouse primary visual cortex are tuned for depth of visual cues driven by motion parallax. This selectivity arises as a product of integration of optic flow and locomotion-related signals. As the result, V1 neurons can be described by three-dimensional receptive fields - tuned for retinotopic location and depth.
   image: he_2024.png
   url: "https://www.biorxiv.org/content/10.1101/2024.09.27.615442v1"  
+
+- title: "Barcoded Rabies In Situ Connectomics for high-throughput reconstruction of neural circuits"
+  authors: A Becalick*, A Blot, M Strom, P Znamenskiy
+  ref: bioRxiv, 2025
+  description: We developed BRISC, a new method using rabies viruses expressing random molecular barcodes to reconstruct inputs of 100s of single neurons in the same animal. We apply BRISC to map connectivity of the mouse primary visual cortex, identifying layer- and cell-type-specific wiring rules.
+  image: becalick_2025.png
+  url: "https://www.biorxiv.org/content/10.1101/2025.07.16.665048v1"
