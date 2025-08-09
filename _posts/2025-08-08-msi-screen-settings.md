@@ -14,6 +14,7 @@ authors:
 toc:
   sidebar: left
 thumbnail: images/posts/msi_screen/mouse.png
+thumbnail_caption: "Mouse looking at 4 screens, probably watching Casablanca. Gemini."
 ---
 
 We use VR setups, see for instance [this study](https://www.biorxiv.org/content/10.1101/2024.09.27.615442v1.abstract), which require fast monitors. We recently got some cheap gaming monitors from [MSI](https://www.msi.com/Monitor/G255F)

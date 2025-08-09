@@ -14,7 +14,7 @@ permalink: /blog
     <div class="post-item d-flex align-items-start mb-4">
       {% if post.thumbnail %}
         <div class="flex-shrink-0 mr-3">
-          <a href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}" {% if post.thumbnail_caption %}title="{{ post.thumbnail_caption | escape }}"{% endif %}>
             <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}" style="width: 150px; height: 150px; object-fit: cover;" class="rounded">
           </a>
         </div>
