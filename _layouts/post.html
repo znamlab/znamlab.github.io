@@ -1,80 +1,68 @@
 ---
 layout: default
 ---
-{% assign year = page.date | date: '%Y' %}
-{% assign tags = page.tags | join: '' %}
-{% assign categories = page.categories | join: '' %}
-{% assign url_beginning = page.url | slice: 0, 6 %}
+
+{% assign year = page.date | date: '%Y' %} {% assign tags = page.tags | join: ''
+%} {% assign categories = page.categories | join: '' %} {% assign url_beginning
+= page.url | slice: 0, 6 %}
 
 <div class="post">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      Created on {{ page.date | date: '%B %d, %Y' }}
-      {% if page.authors %}
-        • By {% for author in page.authors %}
-          {% if author.url %}
-            <a href="{{ author.url }}" target="_blank" rel="noopener noreferrer">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
-          {% else %}
-            {{ author.name }}{% unless forloop.last %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-      {% elsif page.author %}
-        • By {{ page.author }}
-      {% endif %}
-      {% if page.last_updated %}, last updated on {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
+      Created on {{ page.date | date: '%B %d, %Y' }} {% if page.authors %} • By
+      {% for author in page.authors %} {% if author.url %}
+      <a href="{{ author.url }}" target="_blank" rel="noopener noreferrer"
+        >{{ author.name }}</a
+      >{% unless forloop.last %}, {% endunless %} {% else %} {{ author.name }}{%
+      unless forloop.last %}, {% endunless %} {% endif %} {% endfor %} {% elsif
+      page.author %} • By {{ page.author }} {% endif %} {% if page.last_updated
+      %}, last updated on {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
     </p>
     <p class="post-tags">
-      <a href="{{ year | prepend: '/blog/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-      {% if tags != '' %}
-        &nbsp; &middot; &nbsp;
-        {% for tag in page.tags %}
-          <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
-          {% unless forloop.last %}
-            &nbsp;
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
-      {% if categories != '' %}
-        &nbsp; &middot; &nbsp;
-        {% for category in page.categories %}
-          <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}</a>
-          {% unless forloop.last %}
-            &nbsp;
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
+      <a href="{{ year | prepend: '/blog/' | relative_url }}">
+        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+      </a>
+      {% if tags != '' %} &nbsp; &middot; &nbsp; {% for tag in page.tags %}
+      <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
+        <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a
+      >
+      {% unless forloop.last %} &nbsp; {% endunless %} {% endfor %} {% endif %}
+      {% if categories != '' %} &nbsp; &middot; &nbsp; {% for category in
+      page.categories %}
+      <a
+        href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}"
+      >
+        <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}</a
+      >
+      {% unless forloop.last %} &nbsp; {% endunless %} {% endfor %} {% endif %}
     </p>
   </header>
 
   <div class="row">
     {% if page.toc.sidebar and page.toc.sidebar == 'left' %}
-      <!-- Content with a left-hand-side TOC -->
-      <div class="col-md-3">
-        <div id="toc-sidebar" class="sticky-top" style="top: 60px; /* Adjust based on your navbar height */">
-          
-          {% include toc.html html=content %}
-        </div>
+    <!-- Content with a left-hand-side TOC -->
+    <div class="col-md-3">
+      <div
+        id="toc-sidebar"
+        class="sticky-top"
+        style="top: 60px; /* Adjust based on your navbar height */"
+      >
+        {% include toc.html html=content %}
       </div>
-      <div class="col-md-9">
-        <article class="post-content">
-          {{ content }}
-        </article>
-        {% if site.giscus and page.giscus_comments %}
-          {% include giscus.liquid %}
-        {% endif %}
-      </div>
+    </div>
+    <div class="col-md-9">
+      <article class="post-content">{{ content }}</article>
+      {% if site.giscus and page.giscus_comments %} {% include giscus.liquid %}
+      {% endif %}
+    </div>
     {% else %}
-      <!-- Content without a TOC -->
-      <div class="col-sm-12">
-        <article class="post-content">
-          {{ content }}
-        </article>
-        {% if site.giscus and page.giscus_comments %}
-          {% include giscus.liquid %}
-        {% endif %}
-      </div>
+    <!-- Content without a TOC -->
+    <div class="col-sm-12">
+      <article class="post-content">{{ content }}</article>
+      {% if site.giscus and page.giscus_comments %} {% include giscus.liquid %}
+      {% endif %}
+    </div>
     {% endif %}
   </div>
 </div>

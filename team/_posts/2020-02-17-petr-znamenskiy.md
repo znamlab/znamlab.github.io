@@ -10,6 +10,7 @@ scholar: "https://scholar.google.com/citations?user=tZ3hWEYAAAAJ"
 link_to_page: yes
 alumni: no
 ---
+
 I am a Group Leader at [the Francis Crick Institute](https://www.crick.ac.uk/)
 and an Affiliate Member of [the Sainsbury Wellcome
 Centre](https://www.sainsburywellcome.org/web/). I did my PhD with [Tony
@@ -29,4 +30,4 @@ take advantage of the accumulated knowledge of their ancestors, passed down to
 them in form of genetic instructions for wiring networks of neurons. Our mission
 is to decypher these instructions by investigating how gene expression
 programmes of cortical neurons constrain their synaptic wiring and understanding
-the role of the resulting circuits in behavior.   
+the role of the resulting circuits in behavior.

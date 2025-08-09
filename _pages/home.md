@@ -4,6 +4,7 @@ excerpt: "Znamenskiy lab at the Francis Crick Institute studying the relationshi
 sitemap: false
 permalink: /
 ---
+
 <div class="col-sm-12">
 <img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/lab_logo_color.svg">
 <div class="bigtitle titlebox">
@@ -41,17 +42,20 @@ Specification and Function of Neural Circuits Laboratory
 </div>
 
 # Our collaborators
+
 ## Collaborators at the Crick
-* [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
-* [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
-* [Dr. Katharina Schmack, Neural Circuits and Immunity in Psychosis Laboratory](https://www.crick.ac.uk/research/labs/katharina-schmack)
-* [Dr. Leanne Li, Cancer-Neuroscience Laboratory](https://www.crick.ac.uk/research/labs/leanne-li)
+
+- [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
+- [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
+- [Dr. Katharina Schmack, Neural Circuits and Immunity in Psychosis Laboratory](https://www.crick.ac.uk/research/labs/katharina-schmack)
+- [Dr. Leanne Li, Cancer-Neuroscience Laboratory](https://www.crick.ac.uk/research/labs/leanne-li)
 
 ## External collaborators
-* [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
-* Dr. Mathieu Bourdenx, UK Dementia Research Institute, UCL
-* [Dr. Harry Bulstrode, Wellcome-MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/people/pi/bulstrode)
-* [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
+
+- [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
+- Dr. Mathieu Bourdenx, UK Dementia Research Institute, UCL
+- [Dr. Harry Bulstrode, Wellcome-MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/people/pi/bulstrode)
+- [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
 
 </div>
 

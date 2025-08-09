@@ -14,6 +14,6 @@ adapted from the website of [the Bedford lab](https://bedford.io/). It is powere
 by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com),
 [Bootswatch](http://www.bootswatch.com), and [Font Awesome](https://fontawesome.com/).
 The source code is maintained on [GitHub](https://github.com/znamlab/znamlab.github.io)
-for version control and is freely available under MIT license.  The website is hosted on
+for version control and is freely available under MIT license. The website is hosted on
 [GitHub Pages](https://pages.github.com/). The lab logo is by
 [Ivana Or&#353;oli&#263;](https://www.sainsburywellcome.org/web/people/ivana-orsolic).

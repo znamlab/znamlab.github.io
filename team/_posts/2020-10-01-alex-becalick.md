@@ -7,6 +7,7 @@ email: alexander.becalick@crick.ac.uk
 link_to_page: yes
 alumni: no
 ---
+
 I am a first-year PhD student in the Znamenskiy Lab. My research will be focused on
 developing new ways to study the connectivity and gene expression of large populations
 of neurons in the visual cortex.

@@ -89,8 +89,8 @@ settling down. For more description and some fun tests, see the [blur buster web
 </div>
 
 The normal setting takes a bit more than 2 frames to reach steady state, with fast
-the rise time is reduced to ~1.5 frames, not dramatic but still noticeable. The fastest 
-mode has a large overshoot which make it quite useless. 
+the rise time is reduced to ~1.5 frames, not dramatic but still noticeable. The fastest
+mode has a large overshoot which make it quite useless.
 
 So we go with fast.
 

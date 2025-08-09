@@ -6,14 +6,15 @@ sitemap: false
 permalink: /publications
 ---
 
-
 # Publications
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publications reversed %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -32,6 +33,7 @@ permalink: /publications
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -39,6 +41,7 @@ permalink: /publications
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 

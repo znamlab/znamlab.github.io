@@ -5,8 +5,11 @@ excerpt: "Members of the Znamenskiy lab at the Francis Crick Institute"
 sitemap: false
 permalink: /team
 ---
+
 # Current Lab Members
+
 {% assign index = 1 %}
+
 <div class="row">
 {% for member in site.categories.team reversed %}
 {% if member.alumni != true %}

@@ -52,7 +52,7 @@
   ref: bioRxiv, 2024
   description: We found that the responses of neurons in the mouse primary visual cortex are tuned for depth of visual cues driven by motion parallax. This selectivity arises as a product of integration of optic flow and locomotion-related signals. As the result, V1 neurons can be described by three-dimensional receptive fields - tuned for retinotopic location and depth.
   image: he_2024.png
-  url: "https://www.biorxiv.org/content/10.1101/2024.09.27.615442v1"  
+  url: "https://www.biorxiv.org/content/10.1101/2024.09.27.615442v1"
 
 - title: "Barcoded Rabies In Situ Connectomics for high-throughput reconstruction of neural circuits"
   authors: A Becalick*, A Blot*, M Strom, P Znamenskiy
@@ -64,6 +64,6 @@
 - title: "Topographic alignment of auditory inputs to the visual cortex"
   authors: A Egea-Weiss*, B Turner-Bridger*, A Viduolyte, E Marianelli, P Znamenskiy, MF Iacaruso
   ref: bioRxiv, 2025
-  description: In collaboration with <a href="https://www.crick.ac.uk/research/labs/flor-iacaruso">the Iacaruso lab</a>, we find new anatomical and functional rules that govern how auditory and visual cortices talk to each other. We show that the projections from auditory to visual cortex are topographically organised and route stream-specific spatial auditory signals. 
+  description: In collaboration with <a href="https://www.crick.ac.uk/research/labs/flor-iacaruso">the Iacaruso lab</a>, we find new anatomical and functional rules that govern how auditory and visual cortices talk to each other. We show that the projections from auditory to visual cortex are topographically organised and route stream-specific spatial auditory signals.
   image: egea-weiss_turner-bridger_2025.png
   url: "https://www.biorxiv.org/content/10.1101/2025.07.29.667237v1"
