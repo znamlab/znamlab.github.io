@@ -1,0 +1,10 @@
+// Custom styles for blog post figure captions
+@import "variables";
+
+.post .figure-caption {
+    font-size: 0.95rem; // Slightly smaller than the base font size
+    text-align: center;
+    color: $gray-900; // Use the logo color for consistency
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+}

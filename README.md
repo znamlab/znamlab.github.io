@@ -3,9 +3,12 @@ Lab website of the Specification and Function of Neural Circuits Laboratory at
 the Francis Crick Institute. The website is largely based on the
 [template](https://github.com/mpa139/allanlab) provided by
 [the Allan lab](http://www.allanlab.org/) and includes some code
-adapted from the website of [the Bedford lab](https://bedford.io/).
+adapted from the website of [the Bedford lab](https://bedford.io/) and some from 
+[the al-folio](https://github.com/alshedivat/al-folio) template.
 It uses some [Bootstrap](http://www.getbootstrap.com),
-[Bootswatch](http://www.bootswatch.com), and [Font Awesome](https://fontawesome.com/).
+[Bootswatch](http://www.bootswatch.com), 
+[jekyll-toc](https://github.com/allejo/jekyll-toc/tree/master) and
+[Font Awesome](https://fontawesome.com/).
 Website source code is freely available under MIT License.
 
 ## Modifying the website

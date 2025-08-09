@@ -1,0 +1,34 @@
+// Custom styling for the Table of Contents on post pages.
+
+// Remove bullet points and default padding from the list
+#toc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+// Indent nested lists to show hierarchy
+#toc-sidebar ul ul {
+  padding-left: 1rem;
+}
+
+// Style the links within the TOC
+#toc-sidebar a {
+  display: block; // Makes the hover area larger and the border behave correctly
+  color: black;
+  font-weight: bold;
+  text-decoration: none !important; // Override Bootstrap link styles
+  border-left: 3px solid transparent; // Reserve space for the bar
+  padding: .2rem .75rem;
+  transition: all 0.15s ease;
+
+  &:hover,
+  &:focus {
+    border-left-color: #6c757d; // Bootstrap's secondary color for a nice grey
+  }
+
+  // Style for the active link, set by scrollspy
+  &.active {
+    color: #007bff; // Bootstrap's primary color
+    border-left-color: #007bff;
+  }
+}
