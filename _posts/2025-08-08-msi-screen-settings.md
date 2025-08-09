@@ -4,7 +4,7 @@ title: Which gaming mode will please my mice?
 description: Gaming monitors are cheap, have fast response time and high refresh rate. They come with plenty of fancy gaming modes which are not well described. What are they and which one should I use for visual stimulation?
 tags: visual-stimulation calibration display hardware-config
 categories: hardware-config
-date: 2025-08-05 12:00:00
+date: 2025-08-08 12:00:00
 giscus_comments: true
 authors:
   - name: Antonin Blot
