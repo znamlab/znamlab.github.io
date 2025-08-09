@@ -73,6 +73,9 @@ layout: default
         <article class="post-content">
           {{ content }}
         </article>
+        {% if site.giscus and page.giscus_comments %}
+          {% include giscus.liquid %}
+        {% endif %}
       </div>
     {% else %}
       <!-- Content without a TOC -->
@@ -80,12 +83,10 @@ layout: default
         <article class="post-content">
           {{ content }}
         </article>
+        {% if site.giscus and page.giscus_comments %}
+          {% include giscus.liquid %}
+        {% endif %}
       </div>
     {% endif %}
   </div>
-
-  {% if site.giscus and page.giscus_comments %}
-    {% include giscus.liquid %}
-  {% endif %}
-
 </div>
