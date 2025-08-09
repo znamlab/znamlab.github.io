@@ -8,6 +8,7 @@ link_to_page: yes
 github: ablot
 scholar: "https://scholar.google.com/citations?user=Q-xGgTgAAAAJ&hl=en"
 orchid: "https://orcid.org/0000-0002-1546-3927"
+bluesky: antblot.bsky.social
 alumni: no
 ---
 
