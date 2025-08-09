@@ -85,10 +85,12 @@ settling down. For more description and some fun tests, see the [blur buster web
     </div>
 </div>
 <div class="figure-caption">
-    The normal setting takes a bit more than 2 frames to reach steady state, with fast
-    the rise time is reduced to ~1.5 frames. The fastest mode reaches the steady state
-    in less than half a frame but has then a large overshoot which make it quite useless. 
+    Testing the 3 pixel response time settings... sometimes faster is not better.
 </div>
+
+The normal setting takes a bit more than 2 frames to reach steady state, with fast
+the rise time is reduced to ~1.5 frames, not dramatic but still noticeable. The fastest 
+mode has a large overshoot which make it quite useless. 
 
 So we go with fast.
 
