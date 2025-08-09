@@ -84,7 +84,7 @@ layout: default
     {% endif %}
   </div>
 
-  {% if page.giscus_comments %}
+  {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
 
