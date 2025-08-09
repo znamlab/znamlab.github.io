@@ -6,7 +6,7 @@ categories: papers
 tags: skytorial preprint brisc connectomics
 date: 2025-07-21 08:59:00
 authors:
-  - name: Alexander Becalick
+  - name: Alex Becalick
   - name: Antonin Blot
   - name: Molly Strom
   - name: Petr Znamenskiy

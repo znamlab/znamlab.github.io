@@ -26,8 +26,19 @@ permalink: /blog
           {% if post.authors and post.authors.size > 0 %}
             &nbsp;&bull;&nbsp;by
             {% for author in post.authors %}
-              {% if author.url %}
-                <a href="{{ author.url }}" target="_blank" rel="noopener noreferrer">{{ author.name }}</a>
+              {%- comment -%} Check for author url, otherwise try to find a team member page {%- endcomment -%}
+              {%- assign author_url = author.url -%}
+              {%- unless author_url -%}
+                {%- for member in site.categories.team -%}
+                  {%- if member.title == author.name -%}
+                    {%- assign author_url = member.url | relative_url -%}
+                    {%- break -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endunless -%}
+
+              {% if author_url %}
+                <a href="{{ author_url }}" target="_blank" rel="noopener noreferrer">{{ author.name }}</a>
               {% else %}
                 {{ author.name }}
               {% endif %}
