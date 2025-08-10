@@ -10,7 +10,7 @@ authors:
   - name: Antonin Blot
   - name: Molly Strom
   - name: Petr Znamenskiy
-thumbnail: images/posts/Gemini_barcode.png
+thumbnail: images/posts/Gemini_barcode.jpg
 thumbnail_caption: "Gemini view of barcode transmission."
 ---
 

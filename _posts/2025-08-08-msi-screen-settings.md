@@ -13,7 +13,7 @@ authors:
       name: The Francis Crick Institute, London
 toc:
   sidebar: left
-thumbnail: images/posts/msi_screen/mouse.png
+thumbnail: images/posts/msi_screen/mouse.jpg
 thumbnail_caption: "Mouse looking at 4 screens, probably watching Casablanca. Gemini."
 ---
 
@@ -53,10 +53,10 @@ the photodiode signal amplitude when the screen is white).
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/brightness_step.png" title="Response to step from black to white with different blightness settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/brightness_step.jpg" title="Response to step from black to white with different blightness settings" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/brightness_flicker.png" title="Response to alternating steps from black to white with different blightness settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/brightness_flicker.jpg" title="Response to alternating steps from black to white with different blightness settings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="figure-caption">
@@ -79,10 +79,10 @@ settling down. For more description and some fun tests, see the [blur buster web
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/responsetime_step.png" title="Response to step from black to white with different pixel response time settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/responsetime_step.jpg" title="Response to step from black to white with different pixel response time settings" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/responsetime_flicker.png" title="Response to alternating steps from black to white with different pixel response time settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/responsetime_flicker.jpg" title="Response to alternating steps from black to white with different pixel response time settings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="figure-caption">
@@ -104,10 +104,10 @@ which is kinda confusing.
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/mprt_step.png" title="Response to step from black to white with and without MPRT" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/mprt_step.jpg" title="Response to step from black to white with and without MPRT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/mprt_flicker.png" title="Response to alternating steps from black to white with and without MPRT" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/mprt_flicker.jpg" title="Response to alternating steps from black to white with and without MPRT" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="figure-caption">
@@ -125,10 +125,10 @@ with black and white images).
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/gamingmode_step.png" title="Response to step from black to white with different gaming mode settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/gamingmode_step.jpg" title="Response to step from black to white with different gaming mode settings" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="images/posts/msi_screen/gamingmode_flicker.png" title="Response to alternating steps from black to white with different gaming mode settings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="images/posts/msi_screen/gamingmode_flicker.jpg" title="Response to alternating steps from black to white with different gaming mode settings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="figure-caption">
