@@ -14,7 +14,7 @@ authors:
   - name: Petr Znamenskiy
   - name: M. Florencia Iacaruso
     url: https://www.crick.ac.uk/research/labs/flor-iacaruso
-thumbnail: images/posts/a1v1_schematics.png
+thumbnail: images/pubs/egea-weiss_turner-bridger_2025.png
 thumbnail_caption: "Schematic of A1 to V1 projections."
 ---
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:njjmjcsjnspygjvjk3dpqgtz/app.bsky.feed.post/3lvdfuslaoc2d" data-bluesky-cid="bafyreibe5bd2w33ldq6kkw6bcjmbuhfespvaklxclmel7igzn25wdy6roq" data-bluesky-embed-color-mode="system"><p lang="en">1/N What are the organizational principles underlying crossmodal cortical connections? 
