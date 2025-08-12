@@ -7,7 +7,7 @@ layout: default
 = page.url | slice: 0, 6 %}
 
 <div class="post">
-  <header class="post-header">
+  <header class="post-header px-3">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p class="post-meta">
       Created on {{ page.date | date: '%B %d, %Y' }} {% if page.authors %} • By
@@ -42,7 +42,7 @@ layout: default
   <div class="row">
     {% if page.toc.sidebar and page.toc.sidebar == 'left' %}
     <!-- Content with a left-hand-side TOC -->
-    <div class="col-md-3">
+    <div class="col-md-3 px-3">
       <div
         id="toc-sidebar"
         class="sticky-top"
@@ -52,14 +52,14 @@ layout: default
       </div>
     </div>
     <div class="col-md-9">
-      <article class="post-content">{{ content }}</article>
+      <article class="post-content px-3">{{ content }}</article>
       {% if site.giscus and page.giscus_comments %} {% include giscus.liquid %}
       {% endif %}
     </div>
     {% else %}
     <!-- Content without a TOC -->
     <div class="col-sm-12">
-      <article class="post-content">{{ content }}</article>
+      <article class="post-content px-3">{{ content }}</article>
       {% if site.giscus and page.giscus_comments %} {% include giscus.liquid %}
       {% endif %}
     </div>
