@@ -4,7 +4,7 @@ title: Topographic alignment of auditory inputs to the visual cortex
 description: How does the brain blend what we see with what we hear? In collaboration with  Flor Iacaruso's lab, we find new anatomical and functional rules that govern how auditory and visual cortices talk to each other. 
 categories: papers
 tags: skytorial preprint collaborations
-date: 2025-07-21 08:59:00
+date: 2025-08-01 11:10:00
 authors:
   - name: Alexander Egea-Weiss
     url: https://www.crick.ac.uk/research/find-a-researcher/alexander-egea-weiss
