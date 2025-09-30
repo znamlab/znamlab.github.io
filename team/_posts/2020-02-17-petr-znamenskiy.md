@@ -5,7 +5,8 @@ photo: Petr.jpg
 info: Group Leader
 email: petr.znamenskiy@crick.ac.uk
 github: znamensk
-twitter: petrzzz
+twitter: petrznam
+bluesky: petrznam.bsky.social
 scholar: "https://scholar.google.com/citations?user=tZ3hWEYAAAAJ"
 link_to_page: yes
 alumni: no
