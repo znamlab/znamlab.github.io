@@ -48,23 +48,19 @@ Specification and Function of Neural Circuits Laboratory
 - [Dr. Jonny Kohl, State-Dependent Neural Processing Laboratory](https://www.kohl-lab.org/)
 - [Dr. Flor Iacaruso, Neuronal Circuits and Behaviour Laboratory](https://www.crick.ac.uk/research/labs/flor-iacaruso)
 - [Dr. Katharina Schmack, Neural Circuits and Immunity in Psychosis Laboratory](https://www.crick.ac.uk/research/labs/katharina-schmack)
-- [Dr. Leanne Li, Cancer-Neuroscience Laboratory](https://www.crick.ac.uk/research/labs/leanne-li)
+- [Prof. Andreas Schaefer, Sensory Circuits and Neurotechnology Laboratory](https://www.crick.ac.uk/research/labs/andreas-schaefer)
 
 ## External collaborators
 
 - [Prof. Dinu Florin Albeanu, Cold Spring Harbor Laboratory](http://albeanulab.labsites.cshl.edu/)
-- Dr. Mathieu Bourdenx, UK Dementia Research Institute, UCL
-- [Dr. Harry Bulstrode, Wellcome-MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/people/pi/bulstrode)
-- [Prof. Kenneth Harris, UCL](https://www.ucl.ac.uk/cortexlab/)
+- [Prof. Alexei Koulakov, Cold Spring Harbor Laboratory](https://www.cshl.edu/research/faculty-staff/alexei-koulakov/)
 
 </div>
 
 <div class="col-sm-12">
 <h2>Funding</h2>
 <p>
-We are supported by core funding from
-<a href="http://www.crick.ac.uk">the Francis Crick Institute</a>. The Crick is
-a partnership between
+We are supported by <a href="http://www.crick.ac.uk">the Francis Crick Institute</a> and [the Biotechnology and Biological Sciences Research Council](https://www.ukri.org/councils/bbsrc/). The Crick is a partnership between
 <a href="https://mrc.ukri.org/">the Medical Research Council</a>,
 <a href="https://www.cancerresearchuk.org/">Cancer Research UK</a>,
 <a href="https://wellcome.org/">the Wellcome Trust</a>,
