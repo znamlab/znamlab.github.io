@@ -41,6 +41,7 @@ permalink: /team
 {% endif %}
 {% endfor %}
 
+<p></p>
 <div id="gridid" class="col-12">
 <h1 id="former-lab-members">Former Lab Members</h1>
 {% assign index = 1 %}
