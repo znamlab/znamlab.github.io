@@ -60,7 +60,7 @@ Specification and Function of Neural Circuits Laboratory
 <div class="col-sm-12">
 <h2>Funding</h2>
 <p>
-We are supported by <a href="http://www.crick.ac.uk">the Francis Crick Institute</a> and [the Biotechnology and Biological Sciences Research Council](https://www.ukri.org/councils/bbsrc/). The Crick is a partnership between
+We are supported by <a href="http://www.crick.ac.uk">the Francis Crick Institute</a> and <a href="https://www.ukri.org/councils/bbsrc/">the Biotechnology and Biological Sciences Research Council</a>. The Crick is a partnership between
 <a href="https://mrc.ukri.org/">the Medical Research Council</a>,
 <a href="https://www.cancerresearchuk.org/">Cancer Research UK</a>,
 <a href="https://wellcome.org/">the Wellcome Trust</a>,
