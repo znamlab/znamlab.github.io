@@ -5,7 +5,7 @@ photo: Alex.jpg
 info: PhD student
 email: alexander.becalick@crick.ac.uk
 link_to_page: yes
-alumni: no
+alumni: yes
 ---
 
 I am a first-year PhD student in the Znamenskiy Lab. My research will be focused on
