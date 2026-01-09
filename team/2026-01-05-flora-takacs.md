@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Petr Znamenskiy
+title: Flora Takacs
 photo: Flora.jpg
 info: Postdoc
 email: flora.takacs@crick.ac.uk
