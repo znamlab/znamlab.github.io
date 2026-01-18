@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Séamus O'Sullivan
-photo:  
+photo: Seamus.png
 info: PhD Student
 github: m0ose01
 email: seamus.osullivan@crick.ac.uk
