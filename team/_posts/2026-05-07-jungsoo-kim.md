@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jungsoo Kim
-photo: jsk.jpeg
+photo: jsk.jpg
 info: Senior Data Scientist
 email: jungsoo.kim@crick.ac.uk
 github: urlicht
