@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Harsha Sridhr
+title: Harsha Sridhar
 photo: <img width="2880" height="3840" alt="harsha" src="https://github.com/user-attachments/assets/12cc7a38-757b-456e-9dfb-9beaa30f75d1" />
 info: PhD student
 email: harsha.sridhar@crick.ac.uk
