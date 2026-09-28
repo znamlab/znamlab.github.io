@@ -6,7 +6,7 @@ info: Master's Student
 email: aaron.chen@crick.ac.uk
 orcid: "https://orcid.org/0009-0003-1802-1002"
 link_to_page: yes
-alumni: no
+alumni: true
 ---
 
 I am a Master's Student in the Znamenskiy lab. I did my undergraduate degree in University of Cambridge, and I am currently undertaking MSc Neuroscience program of UCL. 
